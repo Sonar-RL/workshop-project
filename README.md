@@ -4,7 +4,7 @@
 
 ## 1. import and clone repo to local
 
- git clone https://{user_name}:{token}@github.com/{org_name}/workshop-project.git  
+ git clone https://{user_name}:{token}@github.com/{org_name}/workshop-project.git
  
  
 ## 2. manual scan
